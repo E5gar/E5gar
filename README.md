@@ -92,3 +92,20 @@ Mi CV y certificados completos se encuentran en mi [portafolio](https://e5gar.gi
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 <br>
+
+
+### 📚 Certificaciones destacadas
+
+- 🔵 Cisco · Analista Junior en Ciberseguridad (120 h)
+- 🔵 Cisco · Fundamentos de Python 1 y 2 (70 h)
+- 🔵 Cisco · Fundamentos de Linux (70 h)
+- 🟣 Fundación Telefónica del Perú · Programación con Java Standard (40 h)
+- 🟢 Santander Open Academy · Fundamentos de Power BI
+
+_Certificados completos en mi [portafolio](https://e5gar.github.io)._
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px" />
+
+<br>
