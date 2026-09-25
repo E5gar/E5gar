@@ -32,10 +32,10 @@ Mi CV y certificados completos se encuentran en mi [portafolio](https://e5gar.gi
 
 <div align="center">
   <a href="https://github.com/E5gar/restaiuranteboard-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=E5gar&repo=restaiuranteboard-backend&theme=radical&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=E5gar&repo=restaiuranteboard-backend&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/E5gar/restaiuranteboard-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=E5gar&repo=restaiuranteboard-frontend&theme=radical&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=E5gar&repo=restaiuranteboard-frontend&theme=radical&hide_border=true" />
   </a>
 </div>
 
@@ -115,8 +115,8 @@ _Certificados completos en mi [portafolio](https://e5gar.github.io)._
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=E5gar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E5gar&layout=compact&theme=radical&hide_border=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=E5gar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=E5gar&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
