@@ -7,3 +7,10 @@
 Estudiante de IX ciclo de Ingeniería de Sistemas en la Universidad Nacional del Centro del Perú, décimo superior de mi facultad.
 Actualmente en soporte técnico de redes y desarrollo Full Stack.
 Mi CV y certificados completos se encuentran en mi [portafolio](https://e5gar.github.io).
+
+
+<a href="https://www.linkedin.com/in/edgargago"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:edgargagouribe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://e5gar.github.io"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
