@@ -18,7 +18,7 @@ Mi CV y certificados completos se encuentran en mi [portafolio](https://e5gar.gi
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b93,100:833ab4&height=3&width=100%25" width="100%" />
 
 <br>
 
@@ -106,7 +106,7 @@ _Certificados completos en mi [portafolio](https://e5gar.github.io)._
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b93,100:833ab4&height=3&width=100%25" width="100%" />
 
 <br>
 
@@ -128,7 +128,7 @@ _Certificados completos en mi [portafolio](https://e5gar.github.io)._
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=E5gar&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=E5gar&theme=radical&no-frame=true" />
 
 </div>
 
