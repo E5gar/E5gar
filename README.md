@@ -109,3 +109,31 @@ _Certificados completos en mi [portafolio](https://e5gar.github.io)._
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px" />
 
 <br>
+
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=E5gar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E5gar&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=E5gar&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=E5gar&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=E5gar&style=flat&color=blue)
+
+</div>
